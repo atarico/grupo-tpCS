@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Azzuu\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\USUARIO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Azzuu\\source\\repos\\grupo-tpCS\\tpCS\\tpCS.csproj",
+      "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\tpCS\\grupo-tpCS\\tpCS\\tpCS.csproj",
       "projectName": "tpCS",
-      "projectPath": "C:\\Users\\Azzuu\\source\\repos\\grupo-tpCS\\tpCS\\tpCS.csproj",
-      "packagesPath": "C:\\Users\\Azzuu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Azzuu\\Source\\Repos\\grupo-tpCS\\tpCS\\obj\\",
+      "projectPath": "C:\\Users\\USUARIO\\Desktop\\tpCS\\grupo-tpCS\\tpCS\\tpCS.csproj",
+      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USUARIO\\Desktop\\tpCS\\grupo-tpCS\\tpCS\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Azzuu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -71,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }
