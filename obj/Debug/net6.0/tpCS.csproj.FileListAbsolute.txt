@@ -1,0 +1,5 @@
+C:\Users\USUARIO\Desktop\grupo-tpCS\tpCS\obj\Debug\net6.0\tpCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\grupo-tpCS\tpCS\obj\Debug\net6.0\tpCS.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\grupo-tpCS\tpCS\obj\Debug\net6.0\tpCS.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\grupo-tpCS\tpCS\obj\Debug\net6.0\tpCS.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\grupo-tpCS\tpCS\obj\Debug\net6.0\tpCS.sourcelink.json
