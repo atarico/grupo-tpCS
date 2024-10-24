@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace tpCS.ENUMS
+namespace tpCS
 {
     public enum EstadoActual
     {
