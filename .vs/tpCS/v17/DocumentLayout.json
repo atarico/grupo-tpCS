@@ -5,6 +5,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{16406A6E-ECDA-43B8-969A-0FE60E1B33C6}|tpCS\\tpCS.csproj|c:\\users\\usuario\\desktop\\tpcs\\grupo-tpcs\\tpcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16406A6E-ECDA-43B8-969A-0FE60E1B33C6}|tpCS\\tpCS.csproj|solutionrelative:tpcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16406A6E-ECDA-43B8-969A-0FE60E1B33C6}|tpCS\\tpCS.csproj|c:\\users\\usuario\\desktop\\tpcs\\grupo-tpcs\\tpcs\\class\\proyecto_desarrollo_web.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16406A6E-ECDA-43B8-969A-0FE60E1B33C6}|tpCS\\tpCS.csproj|solutionrelative:tpcs\\class\\proyecto_desarrollo_web.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16406A6E-ECDA-43B8-969A-0FE60E1B33C6}|tpCS\\tpCS.csproj|c:\\users\\usuario\\desktop\\tpcs\\grupo-tpcs\\tpcs\\sistema\\systemproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16406A6E-ECDA-43B8-969A-0FE60E1B33C6}|tpCS\\tpCS.csproj|solutionrelative:tpcs\\sistema\\systemproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16406A6E-ECDA-43B8-969A-0FE60E1B33C6}|tpCS\\tpCS.csproj|c:\\users\\usuario\\desktop\\tpcs\\grupo-tpcs\\tpcs\\class\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16406A6E-ECDA-43B8-969A-0FE60E1B33C6}|tpCS\\tpCS.csproj|solutionrelative:tpcs\\class\\proyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16406A6E-ECDA-43B8-969A-0FE60E1B33C6}|tpCS\\tpCS.csproj|c:\\users\\usuario\\desktop\\tpcs\\grupo-tpcs\\tpcs\\sistema\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16406A6E-ECDA-43B8-969A-0FE60E1B33C6}|tpCS\\tpCS.csproj|solutionrelative:tpcs\\sistema\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16406A6E-ECDA-43B8-969A-0FE60E1B33C6}|tpCS\\tpCS.csproj|c:\\users\\usuario\\desktop\\tpcs\\grupo-tpcs\\tpcs\\class\\proyecto_desarrollo_movil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16406A6E-ECDA-43B8-969A-0FE60E1B33C6}|tpCS\\tpCS.csproj|solutionrelative:tpcs\\class\\proyecto_desarrollo_movil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16406A6E-ECDA-43B8-969A-0FE60E1B33C6}|tpCS\\tpCS.csproj|c:\\users\\usuario\\desktop\\tpcs\\grupo-tpcs\\tpcs\\enums\\estadoactual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16406A6E-ECDA-43B8-969A-0FE60E1B33C6}|tpCS\\tpCS.csproj|solutionrelative:tpcs\\enums\\estadoactual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +50,86 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Proyecto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\tpCS\\grupo-tpCS\\tpCS\\class\\Proyecto.cs",
+              "RelativeDocumentMoniker": "tpCS\\class\\Proyecto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\tpCS\\grupo-tpCS\\tpCS\\class\\Proyecto.cs",
+              "RelativeToolTip": "tpCS\\class\\Proyecto.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAswAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T21:31:21.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Proyecto_Desarrollo_Web.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\tpCS\\grupo-tpCS\\tpCS\\class\\Proyecto_Desarrollo_Web.cs",
+              "RelativeDocumentMoniker": "tpCS\\class\\Proyecto_Desarrollo_Web.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\tpCS\\grupo-tpCS\\tpCS\\class\\Proyecto_Desarrollo_Web.cs",
+              "RelativeToolTip": "tpCS\\class\\Proyecto_Desarrollo_Web.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T21:29:53.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Proyecto_Desarrollo_Movil.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\tpCS\\grupo-tpCS\\tpCS\\class\\Proyecto_Desarrollo_Movil.cs",
+              "RelativeDocumentMoniker": "tpCS\\class\\Proyecto_Desarrollo_Movil.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\tpCS\\grupo-tpCS\\tpCS\\class\\Proyecto_Desarrollo_Movil.cs",
+              "RelativeToolTip": "tpCS\\class\\Proyecto_Desarrollo_Movil.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAwwDAAAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T21:29:35.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EstadoActual.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\tpCS\\grupo-tpCS\\tpCS\\ENUMS\\EstadoActual.cs",
+              "RelativeDocumentMoniker": "tpCS\\ENUMS\\EstadoActual.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\tpCS\\grupo-tpCS\\tpCS\\ENUMS\\EstadoActual.cs",
+              "RelativeToolTip": "tpCS\\ENUMS\\EstadoActual.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T21:28:13.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SystemProyecto.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\tpCS\\grupo-tpCS\\tpCS\\sistema\\SystemProyecto.cs",
+              "RelativeDocumentMoniker": "tpCS\\sistema\\SystemProyecto.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\tpCS\\grupo-tpCS\\tpCS\\sistema\\SystemProyecto.cs",
+              "RelativeToolTip": "tpCS\\sistema\\SystemProyecto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T21:23:56.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\tpCS\\grupo-tpCS\\tpCS\\sistema\\Menu.cs",
+              "RelativeDocumentMoniker": "tpCS\\sistema\\Menu.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\tpCS\\grupo-tpCS\\tpCS\\sistema\\Menu.cs",
+              "RelativeToolTip": "tpCS\\sistema\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:01:00.97Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\tpCS\\grupo-tpCS\\tpCS\\Program.cs",
               "RelativeDocumentMoniker": "tpCS\\Program.cs",
               "ToolTip": "C:\\Users\\USUARIO\\Desktop\\tpCS\\grupo-tpCS\\tpCS\\Program.cs",
               "RelativeToolTip": "tpCS\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwDoAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-20T21:56:26.479Z",
               "EditorCaption": ""
