@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO\\Desktop\\tpCS\\grupo-tpCS\\tpCS\\tpCS.csproj": {}
+    "C:\\Users\\alber\\Source\\Repos\\grupo-tpCS\\tpCS\\tpCS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USUARIO\\Desktop\\tpCS\\grupo-tpCS\\tpCS\\tpCS.csproj": {
+    "C:\\Users\\alber\\Source\\Repos\\grupo-tpCS\\tpCS\\tpCS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\tpCS\\grupo-tpCS\\tpCS\\tpCS.csproj",
+        "projectUniqueName": "C:\\Users\\alber\\Source\\Repos\\grupo-tpCS\\tpCS\\tpCS.csproj",
         "projectName": "tpCS",
-        "projectPath": "C:\\Users\\USUARIO\\Desktop\\tpCS\\grupo-tpCS\\tpCS\\tpCS.csproj",
-        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\Desktop\\tpCS\\grupo-tpCS\\tpCS\\obj\\",
+        "projectPath": "C:\\Users\\alber\\Source\\Repos\\grupo-tpCS\\tpCS\\tpCS.csproj",
+        "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alber\\Source\\Repos\\grupo-tpCS\\tpCS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alber\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
